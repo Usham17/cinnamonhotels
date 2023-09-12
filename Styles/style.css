@@ -67,7 +67,7 @@ html::-webkit-scrollbar-thumb{
     height: 100%;
     width: 100%;
     min-height: 100vh;
-    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(./home1.jpg);
+    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(../home1.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -766,7 +766,7 @@ html::-webkit-scrollbar-thumb{
     height: 100%;
     width: 100%;
     min-height: 75vh;
-    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(./gallery_bg.jpg);
+    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(../gallery_bg.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -845,7 +845,7 @@ html::-webkit-scrollbar-thumb{
 }
 
 .gallery-wlcm {
-    background: url(//gallery_wlcm_bg.jpg) fixed center;
+    background: url(../gallery_wlcm_bg.jpg) fixed center;
     position: relative;
     height: 100%;
     width: 100%;
@@ -890,7 +890,7 @@ html::-webkit-scrollbar-thumb{
     height: 100%;
     width: 100%;
     min-height: 75vh;
-    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(//adventures-bg.jpg);
+    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(../adventures-bg.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -1058,7 +1058,7 @@ html::-webkit-scrollbar-thumb{
 
 /* our team start */
 .our-team {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.733),rgba(0, 0, 0, 0.719),rgba(0, 0, 0, 0.712)),url(//our_team_bg.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.733),rgba(0, 0, 0, 0.719),rgba(0, 0, 0, 0.712)),url(../our_team_bg.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1144,7 +1144,7 @@ html::-webkit-scrollbar-thumb{
 #resort-excursions-head {
     min-height: 75vh;
     width: 100%;
-    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(//resort-excursions-bg.jpg);
+    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(../resort-excursions-bg.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1339,7 +1339,7 @@ html::-webkit-scrollbar-thumb{
 #branches-head {
     min-height: 75vh;
     width: 100%;
-    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(//branches-banner-resorts-bg.jpg);
+    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(../branches-banner-resorts-bg.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1351,7 +1351,7 @@ html::-webkit-scrollbar-thumb{
 #destinations-head {
     min-height: 75vh;
     width: 100%;
-    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(//destinations-bg.jpg);
+    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(../destinations-bg.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1361,7 +1361,7 @@ html::-webkit-scrollbar-thumb{
 #wildlife-head {
     min-height: 75vh;
     width: 100%;
-    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(//adventures-Gathering-Elephant.jpg);
+    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(../adventures-Gathering-Elephant.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1371,7 +1371,7 @@ html::-webkit-scrollbar-thumb{
 #outbound-head {
     min-height: 75vh;
     width: 100%;
-    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(//outbound-bg.jpg);
+    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(../outbound-bg.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1526,7 +1526,7 @@ html::-webkit-scrollbar-thumb{
 }
 
 .bracnhes-top-btn {
-    background: url(/Images/go-to-top-btn-bg.jpg) fixed center;
+    background: url(../go-to-top-btn-bg.jpg) fixed center;
     position: relative;
     height: 100%;
     width: 100%;
@@ -1540,7 +1540,7 @@ html::-webkit-scrollbar-thumb{
 .wildlife-header {
     min-height: 100vh;
     width: 100%;
-    background: url(../Images/Wildlife-page-bg.jpg) fixed;
+    background: url(../Wildlife-page-bg.jpg) fixed;
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -1759,7 +1759,7 @@ html::-webkit-scrollbar-thumb{
     display: flex;
     border-radius: 10px;
     justify-content: space-between;
-    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(/Images/events-intro-bg.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(../events-intro-bg.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1836,7 +1836,7 @@ html::-webkit-scrollbar-thumb{
     height: 100%;
     width: 100%;
     min-height: 75vh;
-    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(/wedding-island-wedding-header-bg.jpg);
+    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(../wedding-island-wedding-header-bg.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -2299,7 +2299,7 @@ html::-webkit-scrollbar-thumb{
     height: 100%;
     width: 100%;
     min-height: 75vh;
-    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(/business-event-bg.jpg);
+    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(../business-event-bg.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -2309,7 +2309,7 @@ html::-webkit-scrollbar-thumb{
     height: 100%;
     width: 100%;
     min-height: 75vh;
-    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(/menu-bg.jpg);
+    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(../menu-bg.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -2319,7 +2319,7 @@ html::-webkit-scrollbar-thumb{
     height: 100%;
     width: 100%;
     min-height: 75vh;
-    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(/restaurant-bg.jpg);
+    background-image: linear-gradient(to top, transparent, var(--linear_bg)), url(../restaurant-bg.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
